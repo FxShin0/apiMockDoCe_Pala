@@ -68,7 +68,7 @@ Guarda el resultado de una partida.
 
 ### 🔹 `DELETE /api/doce/PRUEBA`
 
-Resetea (borra) todos los rankings del grupo indicado.
+Resetea (borra) todos los rankings.
 
 **Respuesta:**
 
