@@ -4,7 +4,7 @@
 # 🃏 API Mock para Rankings del Juego DoCe
 
 Esta es una API sencilla creada con Flask que permite guardar, obtener y resetear los rankings de partidas ganadas por jugadores en grupos identificados por código. Los datos se almacenan en un archivo JSON (`rankings_data.json`) para persistencia local.
-Deployed in Railway: https://web-production-c8f19.up.railway.app/api/doce/PRUEBA 
+Deployed in Railway: https://web-production-c8f19.up.railway.app
 
 ## 🚀 Cómo iniciar
 
