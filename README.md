@@ -29,7 +29,8 @@ Por defecto corre en el puerto `5000`, o el definido en la variable de entorno `
 ### 🔹 `GET /api/doce/PRUEBA`
 
 Devuelve un listado ordenado de los jugadores de un grupo con la cantidad de partidas ganadas.
-https://web-production-c8f19.up.railway.app/api/doce/PRUEBA
+
+- https://web-production-c8f19.up.railway.app/api/doce/PRUEBA
 
 **Respuesta:**
 
@@ -48,7 +49,8 @@ https://web-production-c8f19.up.railway.app/api/doce/PRUEBA
 ### 🔹 `POST /api/doce`
 
 Guarda el resultado de una partida.
-https://web-production-c8f19.up.railway.app/api/doce
+
+- https://web-production-c8f19.up.railway.app/api/doce
 
 **Cuerpo del request:**
 
@@ -71,7 +73,8 @@ https://web-production-c8f19.up.railway.app/api/doce
 ### 🔹 `DELETE /api/doce/PRUEBA`
 
 Resetea (borra) todos los rankings.
-https://web-production-c8f19.up.railway.app/api/doce/PRUEBA
+
+- https://web-production-c8f19.up.railway.app/api/doce/PRUEBA
 
 **Respuesta:**
 
@@ -86,7 +89,8 @@ https://web-production-c8f19.up.railway.app/api/doce/PRUEBA
 ### 🔹 `GET /status`
 
 Devuelve un resumen básico del estado de la API.
-https://web-production-c8f19.up.railway.app/status
+
+- https://web-production-c8f19.up.railway.app/status
 
 **Respuesta:**
 
